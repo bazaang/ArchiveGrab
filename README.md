@@ -8,7 +8,7 @@ The program is a self-contained single .bat file with no installation needed.
 4. Select a directory to save the files.
 5. Click Download.
 
-<img width="1277" height="1092" alt="image" src="https://github.com/user-attachments/assets/6e4d8170-b016-4b68-a25a-56d4b872f334" />
+<img width="1277" height="1093" alt="image" src="https://github.com/user-attachments/assets/5cd2eba0-ff7d-4542-8b1f-faf270b5ca96" />
 
 This program supports most media types mp4, avi. mkv, pdf, etc...
 
